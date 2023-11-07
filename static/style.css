@@ -1,0 +1,41 @@
+body {
+    font-family: Arial, sans-serif;
+    /* background-color: #f0f0f0; */
+    background-image: url('Black Photographic Technological Products YouTube Thumbail.png');
+    background-repeat: no-repeat;
+    background-size: 1920px 1080px;
+    margin: 0;
+    padding: 0;
+}
+
+.container {
+    width: 50%;
+    margin: 50px auto;
+    background-color: #fff;
+    padding: 20px;
+    border-radius: 10px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+}
+
+input, button {
+    margin-bottom: 10px;
+    width: 100%;
+    padding: 10px;
+    border-radius: 5px;
+    border: 1px solid #ccc;
+}
+
+button {
+    background-color: #4CAF50;
+    color: white;
+    cursor: pointer;
+}
+
+button:hover {
+    background-color: #45a049;
+}
+
+h1 {
+    text-align: center;
+    color: #333;
+}
